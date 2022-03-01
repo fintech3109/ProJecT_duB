@@ -21,17 +21,17 @@ from moviepy.video.tools.subtitles import SubtitlesClip, TextClip
 
 
 
-from app.mp4_wav_01 import inFile
-from app.mp4_wav_01 import outFile
-from app.mp4_wav_01 import translatedText
-from app.mp4_wav_01 import text
-from app.mp4_wav_01 import audio_data
-from app.configure_speech_text_02 import get_transcripts_json
-from app.parse_3 import parse_sentence_with_speaker
-from app.translate_04 import translate_text
-from app.text_to_speech_05 import speak
-from app.transcript_srt_06 import toStr
-from app.stitch_audio_07 import stitch_audio
+from app.01vid_wav import inFile
+from app.01vid_wav import outFile
+from app.01vid_wav import translatedText
+from app.01vid_wav import text
+from app.01vid_wav import audio_data
+from app.02configure_speech_text import get_transcripts_json
+from app.03parse import parse_sentence_with_speaker
+from app.04translate import translate_text
+from app.05text_to_speech import speak
+from app.06transcript_srt import toStr
+from app.07stitch_audio import stitch_audio
 from data.transcript import transcript 
 from data.transcript import translation 
 
