@@ -21,17 +21,17 @@ from moviepy.video.tools.subtitles import SubtitlesClip, TextClip
 
 
 
-from app.01vid_wav import inFile
-from app.01vid_wav import outFile
-from app.01vid_wav import translatedText
-from app.01vid_wav import text
-from app.01vid_wav import audio_data
-from app.02configure_speech_text import get_transcripts_json
-from app.03parse import parse_sentence_with_speaker
-from app.04translate import translate_text
-from app.05text_to_speech import speak
-from app.06transcript_srt import toStr
-from app.07stitch_audio import stitch_audio
+from dubapp.01vid_wav import inFile
+from dubapp.01vid_wav import outFile
+from dubapp.01vid_wav import translatedText
+from dubapp.01vid_wav import text
+from dubapp.01vid_wav import audio_data
+from dubapp.02configure_speech_text import get_transcripts_json
+from dubapp.03parse import parse_sentence_with_speaker
+from dubapp.04translate import translate_text
+from dubapp.05text_to_speech import speak
+from dubapp.06transcript_srt import toStr
+from dubapp.07stitch_audio import stitch_audio
 from data.transcript import transcript 
 from data.transcript import translation 
 
