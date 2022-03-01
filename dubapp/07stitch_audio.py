@@ -5,7 +5,7 @@ from moviepy.editor import VideoFileClip, AudioFileClip, CompositeVideoClip
 from moviepy.video.tools.subtitles import SubtitlesClip, TextClip
 
 
-def stitch_audio(sentences, audioDir=("https://storage.googleapis.com/upload/storage/v1/b/tmpdirectory/tmpfiles/o"), movieFile=("https://storage.cloud.google.com/outputdirectory/VideoFileClip.mp4"), outFile= ("https://storage.googleapis.com/upload/storage/v1/b/tmpdirectory/tmpfiles/o"), srtPath=("https://storage.cloud.google.com/outputdirectory/write_transcription.txt"), overlayGain=-30):
+def stitch_audio(sentences, audioDir=("https://storage.googleapis.com/upload/storage/v1/b/tmpdirectory/tmpfiles/o"), movieFile)
     """Combines sentences, audio clips, and video file into the ultimate dubbed video
     Args:
         sentences (list): Output of parse_sentence_with_speaker
