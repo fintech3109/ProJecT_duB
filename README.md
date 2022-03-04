@@ -2,7 +2,7 @@
 
 
 
-#Technologies
+# Technologies
 
 
 
@@ -14,7 +14,7 @@
 These scripts help you get started with your first video dub project. They are designed for use with the Google Cloud Api service.
 
 
-###The following is provided from opensource code from Google. The statercode above is also from Making with ML opensource code. 
+### The following is provided from opensource code from Google. The statercode above is also from Making with ML opensource code. 
 Installation 
 
 # Machine Learning -Powered Translation Dub Tool
