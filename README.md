@@ -3,7 +3,7 @@
 These scripts help you get started with your first video dub project. They are designed for use with the Google Cloud Api service.
 
 
-# Technologies
+## Technologies
 Google Cloud Api
 AudioSegment
 Python
@@ -11,11 +11,11 @@ Pandas
 Mediapy
 
 
-# ADDITIONAL RESOURCES
+## ADDITIONAL RESOURCES
 ### The following is provided from opensource code from Google. The statercode above is also from Making with ML opensource code. 
 Installation 
 
-# Machine Learning -Powered Translation Dub Tool
+## Machine Learning -Powered Translation Dub Tool
 
 In this directory, you'll find code that takes a movie and:
 - Transcribes it and adds captions
