@@ -1,19 +1,17 @@
 # Video Dub Project
 
-
-
-# Technologies
-
-
-
-
-
-
-
-
 These scripts help you get started with your first video dub project. They are designed for use with the Google Cloud Api service.
 
 
+# Technologies
+Google Cloud Api
+AudioSegment
+Python
+Pandas 
+Mediapy
+
+
+#ADDITIONAL RESOURCES
 ### The following is provided from opensource code from Google. The statercode above is also from Making with ML opensource code. 
 Installation 
 
