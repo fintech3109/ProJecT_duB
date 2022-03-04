@@ -1,17 +1,20 @@
-# Video Dub Quickstart Scripts
+# Video Dub Project
+
+
+
+#Technologies
+
+
+
+
+
+
 
 
 These scripts help you get started with your first video dub project. They are designed for use with the Google Cloud Api service.
 
 
-
-The included API lets you 
-
-1. Pull Audio From Video and Store it as a wav file 
-2. Temporarily store the Video file.
-3. 
-
-
+###The following is provided from opensource code from Google. The statercode above is also from Making with ML opensource code. 
 Installation 
 
 # Machine Learning -Powered Translation Dub Tool
