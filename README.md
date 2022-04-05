@@ -11,9 +11,7 @@ Pandas
 Mediapy
 
 
-## ADDITIONAL RESOURCES
-### The following is provided from opensource code from Google. The statercode above is also from Making with ML opensource code. 
-Installation 
+## ADDITIONAL RESOURCES 
 
 ## Machine Learning -Powered Translation Dub Tool
 
